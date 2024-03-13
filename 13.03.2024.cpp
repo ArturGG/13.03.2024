@@ -12,6 +12,7 @@ int main()
     cout << "03";
     cout << "04";
 my cat
+dog
 }
 
 
